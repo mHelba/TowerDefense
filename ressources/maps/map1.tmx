@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="beach_sand_woa_0" tilewidth="32" tileheight="32">
+  <image source="../tileset/beach_sand_woa_0.png" width="174" height="114"/>
+ </tileset>
+ <tileset firstgid="16" name="beach_sand_woa2_0" tilewidth="32" tileheight="32">
+  <image source="../tileset/beach_sand_woa2_0.png" width="183" height="204"/>
+ </tileset>
+ <tileset firstgid="46" name="beach_sand_woa3_0" tilewidth="32" tileheight="32">
+  <image source="../tileset/beach_sand_woa3_0.png" width="228" height="794"/>
+ </tileset>
+ <tileset firstgid="214" name="Cliff_tileset_0" tilewidth="32" tileheight="32">
+  <image source="../tileset/Cliff_tileset_0.png" width="503" height="518"/>
+ </tileset>
+ <tileset firstgid="454" name="desert_1_0_7" tilewidth="32" tileheight="32">
+  <image source="../tileset/desert_1_0_7.png" width="594" height="450"/>
+ </tileset>
+ <tileset firstgid="706" name="Extra_Unfinished4_1" tilewidth="32" tileheight="32">
+  <image source="../tileset/Extra_Unfinished4_1.png" width="360" height="266"/>
+ </tileset>
+ <tileset firstgid="794" name="graphics-tiles-waterflow" tilewidth="32" tileheight="32">
+  <image source="../tileset/graphics-tiles-waterflow.png" width="319" height="293"/>
+ </tileset>
+ <tileset firstgid="875" name="ground_tiles" tilewidth="32" tileheight="32">
+  <image source="../tileset/ground_tiles.png" width="672" height="701"/>
+ </tileset>
+ <tileset firstgid="1316" name="object- layer_1" tilewidth="32" tileheight="32">
+  <image source="../tileset/object- layer_1.png" width="477" height="219"/>
+ </tileset>
+ <tileset firstgid="1400" name="logic" tilewidth="32" tileheight="32">
+  <image source="../tileset/logic.png" width="160" height="160"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="30" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3SyQrCMBSF4YQq6Npx7bh2fFR9CH0fFfeOawVd+Yc0GIJtV0lAWvhIml44vb3dCSH2OARyFPo64YwLrgHccMcDT6wSIdaJ//VF1hsVqXM3nG0T/6vKrctvbsh+Va75zqH7jTFfk1uVcearcst+/fZrcmP8z+V8/3e+br9F7+zWFT2zz5Sa1LkNNNEKoI0Ouuihj0FqmLHaz21uza+9fTbCGBNMMUvNc/b2fVZtXp1aF1jiA29mT4pgCQAA
+  </data>
+ </layer>
+ <layer name="Calque 3" width="30" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGJlAkoWBQYoCLM2C3xyYPDrQA4rrU4ANWPCbY4DDXmeguAsZ2A2Hve445KkF9HDYC+JPY8aUp7a9RtB4NMTjDlrYSyi+qW0vrnThSqa9lOYrGEYPd0KA0nxFbD7CZS8sP1CKXUm0l9rpYbDbC8uXlJTZ5NhLj7SEDMgtr8lJS6OAdgAAW0hNb2AJAAA=
+  </data>
+ </layer>
+ <layer name="Calque 2" width="30" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGHlAm4WBQQeIdVnoa68D0D5HIHaig73erAh2KNC+MCAOp7N/cQEfVsJqKAWuQDvc6GAPOggG2hlCgr20CgvvAfD7KBi6wJNO6cVugNKlHtBeW1bi7bemkjttoObY0tDfXljMhvl1oMJ7FEAAAApGVdxgCQAA
+  </data>
+ </layer>
+ <layer name="Calque 4" width="30" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC9WVSwoAIAhE3XRnj98FTEd0lAZcRODz05AeEV2KaW3VwJqZd985c4sbnT0WWkeFu9VvlhvtDOV6eavK7neLy/YZWmeXJrnWO2Rwkf2xuK/8kddY/12Xj7zcTG5Wnf78JS7gLLP+YAkAAA==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,224 @@
+#Tower Defense v0.1
+map:ressources/maps/map1.tmx
+#points
+nombre:10
+#point1
+x:80
+y:112
+#point2
+x:560
+y:112
+#point3
+x:560
+y:240
+#point4
+x:688
+y:240
+#point5
+x:688
+y:112
+#point6
+x:816
+y:112
+#point7
+x:816
+y:336
+#point8
+x:240
+y:336
+#point9
+x:240
+y:496
+#point10
+x:720
+y:496
+#monstersSprite
+url:ressources/maps/monsters.txt
+#towersRessource
+url:ressources/maps/towers.txt
+#waves
+nombre:2
+#wave 1
+nombre:10
+#monstre 1
+sprite_id:0
+x:80
+y:112
+speed:0.5
+lifeFull:100
+lifeActual:100
+gold:10
+direction:2
+#monstre 2
+sprite_id:0
+x:80
+y:112
+speed:0.5
+lifeFull:100
+lifeActual:100
+gold:10
+direction:2
+#monstre 3
+sprite_id:1
+x:80
+y:112
+speed:0.5
+lifeFull:100
+lifeActual:100
+gold:10
+direction:2
+#monstre 4
+sprite_id:1
+x:80
+y:112
+speed:0.5
+lifeFull:100
+lifeActual:100
+gold:10
+direction:2
+#monstre 5
+sprite_id:2
+x:80
+y:112
+speed:0.5
+lifeFull:100
+lifeActual:100
+gold:10
+direction:2
+#monstre 6
+sprite_id:2
+x:80
+y:112
+speed:0.5
+lifeFull:100
+lifeActual:100
+gold:10
+direction:2
+#monstre 7
+sprite_id:3
+x:80
+y:112
+speed:0.5
+lifeFull:100
+lifeActual:100
+gold:10
+direction:2
+#monstre 8
+sprite_id:3
+x:80
+y:112
+speed:0.5
+lifeFull:100
+lifeActual:100
+gold:10
+direction:2
+#monstre 9
+sprite_id:4
+x:80
+y:112
+speed:0.5
+lifeFull:100
+lifeActual:100
+gold:10
+direction:2
+#monstre 10
+sprite_id:4
+x:80
+y:112
+speed:0.5
+lifeFull:100
+lifeActual:100
+gold:10
+direction:2
+#wave 2
+nombre:10
+#monstre 1
+sprite_id:5
+x:80
+y:112
+speed:0.5
+lifeFull:200
+lifeActual:200
+gold:10
+direction:2
+#monstre 2
+sprite_id:5
+x:80
+y:112
+speed:0.5
+lifeFull:200
+lifeActual:200
+gold:10
+direction:2
+#monstre 3
+sprite_id:6
+x:80
+y:112
+speed:0.5
+lifeFull:200
+lifeActual:200
+gold:10
+direction:2
+#monstre 4
+sprite_id:6
+x:80
+y:112
+speed:0.5
+lifeFull:200
+lifeActual:200
+gold:10
+direction:2
+#monstre 5
+sprite_id:7
+x:80
+y:112
+speed:0.5
+lifeFull:200
+lifeActual:200
+gold:10
+direction:2
+#monstre 6
+sprite_id:7
+x:80
+y:112
+speed:0.5
+lifeFull:200
+lifeActual:200
+gold:10
+direction:2
+#monstre 7
+sprite_id:8
+x:80
+y:112
+speed:0.5
+lifeFull:200
+lifeActual:200
+gold:10
+direction:2
+#monstre 8
+sprite_id:9
+x:80
+y:112
+speed:0.5
+lifeFull:200
+lifeActual:200
+gold:10
+direction:2
+#monstre 9
+sprite_id:10
+x:80
+y:112
+speed:0.5
+lifeFull:200
+lifeActual:200
+gold:10
+direction:2
+#monstre 10
+sprite_id:10
+x:80
+y:112
+speed:0.5
+lifeFull:200
+lifeActual:200
+gold:10
+direction:2

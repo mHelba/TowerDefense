@@ -1,0 +1,25 @@
+#towers
+nombre:1
+#tower 1
+id:0
+#sprite
+url:ressources/sprites/towers/guard_tower1.png
+sprite_w:32
+sprite_h:32
+#levels
+nombre:3
+#level 1
+prix:100
+degat:50
+range:100
+timeShoot:20
+#level 2
+prix:200
+degat:100
+range:120
+timeShoot:20
+#level 3
+prix:300
+degat:150
+range:150
+timeShoot:20
